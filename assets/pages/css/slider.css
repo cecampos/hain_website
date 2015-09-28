@@ -97,25 +97,25 @@
 
 /* Carousel Item Background Images */
 .carousel-slider .carousel-item-eight {
-    background: url(../../../assets/pages/img/frontend-slider/bg9.jpg);
+    background: url(../../../assets/hain_images/frontis_1.jpg);
     background-size: cover;
     background-position: center center;
 }
 
 .carousel-slider .carousel-item-nine {
-    background: url(../../../assets/pages/img/frontend-slider/bg1.jpg);
+    background: url(../../../assets/hain_images/march-2014021v2-1_by_ignacio_palacios.jpg);
     background-size: cover;
     background-position: center center;
 }
 
 .carousel-slider .carousel-item-ten {
-    background: url(../../../assets/pages/img/frontend-slider/bg2.jpg);
+    background: url(../../../assets/hain_images/vista_comedor_2.jpg);
     background-size: cover;
     background-position: center center;
 }
 
 .carousel-slider .carousel-item-eleven {
-    background: url(../../../assets/pages/img/frontend-slider/bg3.jpg);
+    background: url(../../../assets/hain_images/vista_ventana_3.jpg);
     background-size: cover;
     background-position: center center;
 }
@@ -164,7 +164,7 @@
     font-size: 50px;
     font-weight: 200;
     line-height: 1.4;
-    color: #3f5862;
+    color: #fff;
 }
 
 .carousel-slider .carousel-title-normal {
